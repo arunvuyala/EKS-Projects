@@ -1,0 +1,12 @@
+AWS CLI
+Enables you to configure and interact with AWS services directly from the command line.
+
+eksctl
+A simple CLI tool to create, manage, and delete Amazon EKS clusters.
+
+kubectl
+The primary command-line tool for communicating with and managing Kubernetes clusters, including EKS.
+
+Helm
+A package manager for Kubernetes, used to install applications like the AWS ALB Ingress Controller.
+
